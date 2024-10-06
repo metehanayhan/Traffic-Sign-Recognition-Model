@@ -9,6 +9,10 @@ This project aims to build a deep learning model that can recognize and classify
 You can access the live version of the traffic sign recognition app on Hugging Face via the following link:
 [German Traffic Sign Recognition on Hugging Face](https://huggingface.co/spaces/metehanayhan/TrafficSignRecognition)
 
+![1](https://github.com/user-attachments/assets/1379b3c2-3ef7-4f92-a93f-e97b14fde18d)
+![2](https://github.com/user-attachments/assets/2c26b574-6f6b-4e8c-9513-8dbeab8ec657)
+
+
 ### Project Structure:
 
 - **app.py**: The Streamlit application for traffic sign recognition.
@@ -20,7 +24,7 @@ You can access the live version of the traffic sign recognition app on Hugging F
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/metehanayhan/german-traffic-sign-recognition.git
+    git clone https://github.com/metehanayhan/Traffic-Sign-Recognition-Model.git
     ```
     
 2. Install the necessary dependencies:
